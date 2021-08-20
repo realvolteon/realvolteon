@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @realvolteon
-- 👀 I’m interested in Java, PERL, Python and C++
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Java, PERL, Flutter
+- 🌱 I’m currently learning Flutter
