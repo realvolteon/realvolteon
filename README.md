@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @realvolteon
-- 👀 I’m interested in C# & C++
+- 👋 Hewwooo, my name is volto!
+- 👀 I’m interested in C#, C & C++
